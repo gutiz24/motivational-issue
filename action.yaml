@@ -1,0 +1,6 @@
+name: 'Motivational message'
+description: 'Motivational message by Issue label "motivate"'
+runs:
+  using: 'node20'
+  main: 'index.js'
+  
